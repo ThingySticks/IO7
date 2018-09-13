@@ -1,0 +1,42 @@
+Partlist
+
+Exported from IOSeven.sch at 10/09/2018 01:04
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value             Device                         Package            Library             Sheet
+
+C1       1.0uF             1.0UF-0603-16V-10%             0603               SparkFun-Capacitors 1
+C2       1.0uF             1.0UF-0603-16V-10%             0603               SparkFun-Capacitors 1
+C3       1.0uF             1.0UF-0603-16V-10%             0603               SparkFun-Capacitors 1
+C4       1.0uF             1.0UF-0603-16V-10%             0603               SparkFun-Capacitors 1
+C5       1.0uF             1.0UF-0603-16V-10%             0603               SparkFun-Capacitors 1
+C6       10uF              10UF-POLAR-0603-6.3V-20%(TANT) 0603-POLAR         SparkFun-Capacitors 1
+C7       10uF              10UF-POLAR-0603-6.3V-20%(TANT) 0603-POLAR         SparkFun-Capacitors 1
+D1                         LED0603                        LED-0603           SparkFun-LED        1
+D2                         LED0603                        LED-0603           SparkFun-LED        1
+D10                        LED0603                        LED-0603           SparkFun-LED        1
+J2       1x3 RA Female .1" CONN_03SMD_RA_FEMALE           1X03_SMD_RA_FEMALE SparkFun-Connectors 1
+J3                         CONN_03SMD_RA_MALE             1X03_SMD_RA_MALE   SparkFun-Connectors 1
+LED17    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED18    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED19    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED20    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED21    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED22    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED23    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED24    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED25    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED26    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED27    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED28    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+LED29    WS2812B3535       WS2812B3535                    LED3535            adafruit            1
+R1       1k                1KOHM-0603-1/10W-1%            0603               SparkFun-Resistors  1
+R2       1k                1KOHM-0603-1/10W-1%            0603               SparkFun-Resistors  1
+R3       1k                1KOHM-0603-1/10W-1%            0603               SparkFun-Resistors  1
+R4       300R              1KOHM-0603-1/10W-1%            0603               SparkFun-Resistors  1
+U1       3.3V              V_REG_AP2112K-3.3V             SOT23-5            SparkFun-IC-Power   1
+U2       SN74AHC1G125      74AHC1G125D                    SOT23-5            SparkFun-IC-Logic   1
+X1                         ESP-12E                        ESP-12E            kanflo              1
